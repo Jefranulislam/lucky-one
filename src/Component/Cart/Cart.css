@@ -1,0 +1,10 @@
+.cart {
+    position: sticky;
+    top: 0px;
+    padding: 18px;
+}
+
+.cart-images img {
+    width: 60px;
+    border-radius: 25px;
+}
